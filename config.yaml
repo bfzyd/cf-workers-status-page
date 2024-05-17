@@ -23,6 +23,15 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
+    
+  - id: baohuo2 # unique identifier
+    name: baohuo
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://baohuo.666.cloudns.be/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
 
   - id: www-cloudflare-com
     name: www.cloudflare.com
