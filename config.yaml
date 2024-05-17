@@ -36,13 +36,13 @@ monitors:
   - id: baohuo3
     name: baohuo
     description: 'Built for anything connected to the Internet.'
-    url: 'http://baohuo.mix.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
+    url: 'https://baohuo.mix.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
   - id: baohuo4
     name: baohuo
-    url: 'http://baohuo.atybz.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
+    url: 'https://baohuo.atybz.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
     method: GET
     expectStatus: 200
