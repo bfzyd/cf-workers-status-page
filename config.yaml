@@ -18,7 +18,7 @@ monitors:
   - id: baohuo1 # unique identifier
     name: baohuo
     description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://jiankong.999.cloudns.be/' # URL to fetch
+    url: 'https://a.pressindo.eu.org/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
