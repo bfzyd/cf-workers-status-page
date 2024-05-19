@@ -23,6 +23,7 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
+    
   - id: baohuo2 # unique identifier
     name: 域名保活
     description: 'You write code. They handle the rest.' # default=empty
