@@ -30,7 +30,7 @@ monitors:
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     linkable: false # allows the title to be a link, default=true
-    
+  
   - id: baohuo3
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
