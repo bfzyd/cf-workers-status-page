@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: baohuo1 # unique identifier
-    name: 域名保活
+    name: cf订阅链接
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://baohuo.999.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
     method: GET # default=GET
@@ -24,7 +24,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
     
   - id: baohuo2 # unique identifier
-    name: 域名保活
+    name: cf订阅链接
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://baohuo.666.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
     method: GET # default=GET
@@ -32,7 +32,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
     
   - id: baohuo3
-    name: 域名保活
+    name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
     url: 'https://baohuo.atybz.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
     method: GET
@@ -40,7 +40,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo4
-    name: 域名保活
+    name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
     url: 'https://baohuo.mix.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
     method: GET
@@ -48,7 +48,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true    
     
   - id: baohuo5
-    name: 域名保活
+    name: 哪吒面板
     description: 'Built for anything connected to the Internet.'
     url: 'https://governing-lauralee-nazha-11a115a5.koyeb.app/'
     method: GET
@@ -56,7 +56,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true    
 
   - id: baohuo6
-    name: 域名保活
+    name: 哪吒面板
     description: 'Built for anything connected to the Internet.'
     url: 'http://nazha.pressindo.eu.org/'
     method: GET
