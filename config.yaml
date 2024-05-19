@@ -15,22 +15,22 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: baohuo # unique identifier
-    name: cf订阅链接
-    description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://baohuo.999.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    linkable: false # allows the title to be a link, default=true
+  - id: baohuo1
+    name: cf定阅链接
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://baohuo.999.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
     
-  - id: baohuol # unique identifier
+  - id: baohuo2
     name: cf订阅链接
-    description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://baohuo.666.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    linkable: false # allows the title to be a link, default=true
-  
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://baohuo.666.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
+    
   - id: baohuo3
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
