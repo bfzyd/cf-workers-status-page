@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: baohuo1 # unique identifier
+  - id: baohuo # unique identifier
     name: cf订阅链接
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://baohuo.999.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
@@ -23,7 +23,7 @@ monitors:
     expectStatus: 200 # operational status, default=200
     linkable: false # allows the title to be a link, default=true
     
-  - id: baohuo2 # unique identifier
+  - id: baohuol # unique identifier
     name: cf订阅链接
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://baohuo.666.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00' # URL to fetch
