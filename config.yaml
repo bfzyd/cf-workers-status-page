@@ -46,15 +46,7 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
-    
-  - id: baohuo5
-    name: 哪吒面板
-    description: 'Built for anything connected to the Internet.'
-    url: 'https://governing-lauralee-nazha-11a115a5.koyeb.app/'
-    method: GET
-    expectStatus: 200
-    linkable: true # allows the title to be a link, default=true    
-
+       
   - id: baohuo6
     name: 哪吒面板
     description: 'Built for anything connected to the Internet.'
