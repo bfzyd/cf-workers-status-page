@@ -36,7 +36,7 @@ monitors:
     description: 'Built for anything connected to the Internet.'
     url: 'https://a.atybz.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 201
+    expectStatus: 200
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo4
