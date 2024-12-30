@@ -18,32 +18,32 @@ monitors:
   - id: baohuo1
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://baohuo.999.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00'
+    url: 'https://9.999.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 200
+    expectStatus: 2000
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo2
     name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://baohuo.666.cloudns.be/bedb1f63-b9eb-4482-9fac-2a6c3077da00'
+    url: 'https://6.666.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 200
+    expectStatus: 2000
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo3
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://baohuo.atybz.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
+    url: 'https://a.atybz.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 200
+    expectStatus: 2000
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo4
     name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://baohuo.mix.cloudns.be/11f1050f-a4e9-4d2c-bb9c-8521a9bddf0a'
+    url: 'https://m.mix.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 200
+    expectStatus: 2000
     linkable: true # allows the title to be a link, default=true    
   
