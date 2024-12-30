@@ -20,7 +20,7 @@ monitors:
     description: 'Built for anything connected to the Internet.'
     url: 'https://9.999.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 2000
+    expectStatus: 200
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo2
@@ -28,7 +28,7 @@ monitors:
     description: 'Built for anything connected to the Internet.'
     url: 'https://6.666.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 2000
+    expectStatus: 200
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo3
@@ -36,7 +36,7 @@ monitors:
     description: 'Built for anything connected to the Internet.'
     url: 'https://a.atybz.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 2000
+    expectStatus: 200
     linkable: true # allows the title to be a link, default=true
     
   - id: baohuo4
@@ -44,6 +44,6 @@ monitors:
     description: 'Built for anything connected to the Internet.'
     url: 'https://m.mix.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
-    expectStatus: 2000
+    expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
   
