@@ -55,3 +55,11 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
   
+  - id: baohuo6
+    name: 机场签到
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://jcqd.chengshaobin1.workers.dev/11778378'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true    
+  
