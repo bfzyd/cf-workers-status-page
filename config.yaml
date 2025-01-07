@@ -18,7 +18,7 @@ monitors:
   - id: baohuo1
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://9.999.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
+    url: 'https://cf.999.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
@@ -26,7 +26,7 @@ monitors:
   - id: baohuo2
     name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://6.666.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
+    url: 'https://cf.666.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
@@ -34,7 +34,7 @@ monitors:
   - id: baohuo3
     name: cf定阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://a.atybz.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
+    url: 'https://cf.atybz.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
@@ -42,23 +42,23 @@ monitors:
   - id: baohuo4
     name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://m.mix.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
+    url: 'https://cf.mix.cloudns.be/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
   
   - id: baohuo5
-    name: 用这个cf订阅链接
+    name: cf订阅链接
     description: 'Built for anything connected to the Internet.'
-    url: 'https://censaob.pages.dev/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
+    url: 'https://cf.88888.ip-ddns.com/4a34d8b6-9144-45a8-aa16-9afe56f44ea7'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
   
-  - id: cs
+  - id: baohuo6
     name: 机场签到
     description: 'Built for anything connected to the Internet.'
-    url: 'https://jcqd.chengshaobin1.workers.dev/11778378'
+    url: 'https://jcqd.999.cloudns.be/11778378'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
