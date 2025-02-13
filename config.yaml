@@ -63,3 +63,19 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
   
+  - id: baohuo7
+    name: serv00-s2网页进程保活
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://mcwk.serv00.net/info/'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true    
+
+    - id: baohuo8
+    name: serv00-s3-at网页进程保活
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://atybz.serv00.net/info/'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true    
+  
