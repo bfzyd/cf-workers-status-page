@@ -66,7 +66,7 @@ monitors:
   - id: baohuo7
     name: serv00-s2网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://mcwk.serv00.net/info/'
+    url: 'https://mcwk.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
@@ -74,7 +74,7 @@ monitors:
   - id: baohuo8
     name: serv00-s3-at网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://atybz.serv00.net/info/'
+    url: 'https://atybz.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
@@ -82,7 +82,7 @@ monitors:
   - id: baohuo9
     name: serv00-s3-okj网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://okjhy.serv00.net/info/'
+    url: 'https://okjhy.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
@@ -90,7 +90,7 @@ monitors:
   - id: baohuo10
     name: serv00-s3-oku网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://okuyt.serv00.net/info/'
+    url: 'https://okuyt.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
@@ -98,7 +98,7 @@ monitors:
   - id: baohuo11
     name: serv00-s16-mc网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://mcwkatybz.serv00.net/info/'
+    url: 'https://mcwkatybz.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
@@ -106,7 +106,7 @@ monitors:
   - id: baohuo12
     name: serv00-16-wl网页进程保活
     description: 'Built for anything connected to the Internet.'
-    url: 'https://wlsxnz.serv00.net/info/'
+    url: 'https://wlsxnz.serv00.net/info'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true    
